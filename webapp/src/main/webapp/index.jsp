@@ -6,3 +6,4 @@
 <h3> Morlu Holder </h3>
 <h2> morlu to deploy to docker host through jenkins </h2>
 <h1> deploying to container using ansible and jenkins</h1>
+<h3> jenkins entire deployment using ansible playbook through dockerhub</h3>
